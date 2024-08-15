@@ -15,3 +15,11 @@
 <a href="https://github.com/rogerio1kg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio1kg&theme=dark&hide_langs_below=1" />
 </a>
+<a href="https://github.com/rogerio1kg">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerio1kg&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+<br>
+## 🔗 Redes Sociais
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogeriolevy)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rogeriolevy)
