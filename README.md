@@ -3,7 +3,7 @@
 <br>
 <p>
   <em>
-    Eu sou finalista na <a href="https://portal.uniasselvi.com.br/"> <b>Centro Universitário Leonardo da Vinci</b>, no interior do Amazonas, na cidade de Maués</a>.  
+    Sou um estudante finalista na <a href="https://portal.uniasselvi.com.br/"> <b>Centro Universitário Leonardo da Vinci</b>, no interior do Amazonas, na cidade de Maués</a>.  
     Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> e um entusiasta de tecnologias e programação  que está <b>obcecado</b>
     na idéia de <b>melhorar</b> a mim mesmo e com o desejo de se destacar, podendo assim desenvolver uma <b>plataforma</b> para 
     <b>crescer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">e 
