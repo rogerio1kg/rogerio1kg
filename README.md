@@ -41,9 +41,9 @@ Sou proativo, com forte capacidade de aprendizado e adaptação a novas tecnolog
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rogeriolevydesousa&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rogerio1kg&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriolevydesousa&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio1kg&layout=compact&theme=radical)
 
 ## 🔭 Projetos
 
@@ -72,7 +72,6 @@ Possuo experiência em administração pública, onde desenvolvi habilidades tra
 ## 📫 Contato
 
 - 📧 Email: rogeriolevydesousa@gmail.com
-- 📱 Telefone: (92) 98491-2761
 - 🏙️ Localização: Maués, Amazonas
 
 ---
